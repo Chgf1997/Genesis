@@ -1,3 +1,3 @@
-# Genesis
-Pruebas para genesis
-cambio 1 
+# Repositorio de Genesis
+primeras pruebas (inicio)
+cambio #1 
